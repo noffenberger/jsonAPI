@@ -1,0 +1,74 @@
+{
+    "customers": [
+      {
+        "ID": 1,
+        "first name": "Sabrina",
+        "last name": "Maier",
+        "birthdate": "12.05.1994",
+        "status": "aktiv"
+      },
+      {
+        "ID": 2,
+        "first name": "Phillip",
+        "last name": "Heinrich",
+        "birthdate": "24.11.1983",
+        "status": "nicht-aktiv"
+      },
+      {
+        "ID": 3,
+        "first name": "Gabriele",
+        "last name": "Schuster",
+        "birthdate": "01.02.1951",
+        "status": "aktiv"
+      },
+      {
+        "ID": 4,
+        "first name": "Herbert",
+        "last name": "Kotaska",
+        "birthdate": "31.03.1980",
+        "status": "aktiv"
+      },
+      {
+        "ID": 5,
+        "first name": "Lisa",
+        "last name": "Freitag",
+        "birthdate": "04.09.2001",
+        "status": "aktiv"
+      },
+      {
+        "ID": 6,
+        "first name": "Sebastian",
+        "last name": "Hohenecker",
+        "birthdate": "16.04.1973",
+        "status": "aktiv"
+      },
+      {
+        "ID": 7,
+        "first name": "Maria",
+        "last name": "Gasteiner",
+        "birthdate": "03.01.1994",
+        "status": "nicht-aktiv"
+      },
+      {
+        "ID": 8,
+        "first name": "Marinka",
+        "last name": "Lewis",
+        "birthdate": "07.07.1977",
+        "status": "aktiv"
+      },
+      {
+        "ID": 9,
+        "first name": "Dominik",
+        "last name": "Marchenegg",
+        "birthdate": "07.05.1991",
+        "status": "aktiv"
+      },
+      {
+        "ID": 10,
+        "first name": "Mathilda",
+        "last name": "Reiff",
+        "birthdate": "28.08.1940",
+        "status": "aktiv"
+      }
+    ]
+  }
