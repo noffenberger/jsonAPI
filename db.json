@@ -1,72 +1,72 @@
 {
     "customers": [
       {
-        "ID": 1,
-        "first name": "Sabrina",
-        "last name": "Maier",
+        "id": 1,
+        "firstname": "Sabrina",
+        "lastname": "Maier",
         "birthdate": "12.05.1994",
         "status": "aktiv"
       },
       {
-        "ID": 2,
-        "first name": "Phillip",
-        "last name": "Heinrich",
+        "id": 2,
+        "firstname": "Phillip",
+        "lastname": "Heinrich",
         "birthdate": "24.11.1983",
         "status": "nicht-aktiv"
       },
       {
-        "ID": 3,
-        "first name": "Gabriele",
-        "last name": "Schuster",
+        "id": 3,
+        "firstname": "Gabriele",
+        "lastname": "Schuster",
         "birthdate": "01.02.1951",
         "status": "aktiv"
       },
       {
-        "ID": 4,
-        "first name": "Herbert",
-        "last name": "Kotaska",
+        "id": 4,
+        "firstname": "Herbert",
+        "lastname": "Kotaska",
         "birthdate": "31.03.1980",
         "status": "aktiv"
       },
       {
-        "ID": 5,
-        "first name": "Lisa",
-        "last name": "Freitag",
+        "id": 5,
+        "firstname": "Lisa",
+        "lastname": "Freitag",
         "birthdate": "04.09.2001",
         "status": "aktiv"
       },
       {
-        "ID": 6,
-        "first name": "Sebastian",
-        "last name": "Hohenecker",
+        "id": 6,
+        "firstname": "Sebastian",
+        "lastname": "Hohenecker",
         "birthdate": "16.04.1973",
         "status": "aktiv"
       },
       {
-        "ID": 7,
-        "first name": "Maria",
-        "last name": "Gasteiner",
+        "id": 7,
+        "firstname": "Maria",
+        "lastname": "Gasteiner",
         "birthdate": "03.01.1994",
         "status": "nicht-aktiv"
       },
       {
-        "ID": 8,
-        "first name": "Marinka",
-        "last name": "Lewis",
+        "id": 8,
+        "firstname": "Marinka",
+        "lastname": "Lewis",
         "birthdate": "07.07.1977",
         "status": "aktiv"
       },
       {
-        "ID": 9,
-        "first name": "Dominik",
-        "last name": "Marchenegg",
+        "id": 9,
+        "firstname": "Dominik",
+        "lastname": "Marchenegg",
         "birthdate": "07.05.1991",
         "status": "aktiv"
       },
       {
-        "ID": 10,
-        "first name": "Mathilda",
-        "last name": "Reiff",
+        "id": 10,
+        "firstname": "Mathilda",
+        "lastname": "Reiff",
         "birthdate": "28.08.1940",
         "status": "aktiv"
       }
